@@ -2,4 +2,14 @@
 All about Cisco Cybersecurity Operations Fundamentals and the exam 200-201!
 
 ## About this repository
-This repository contains study materials, notes, and resources to help you prepare for the Cisco Cybersecurity Operations Fundamentals exam (200-201). Whether you're a beginner or looking to refresh your knowledge, you'll find valuable information here. 
+This repository contains study materials, notes, and resources to help you prepare for the Cisco Cybersecurity Operations Fundamentals exam (200-201). Whether you're a beginner or looking to refresh your knowledge, you'll find valuable information here.
+
+## Exam Overview
+Understanding Cisco Cybersecurity Operations Fundamentals v1.2 (CBROPS 200-201) is a 120-minute exam that is associated with the Cisco Certified Cybersecurity Associate Certification.
+
+## Topics Covered
+- Security Concepts
+- Security Monitoring
+- Host-Based Analysis
+- Network Intrusion Analysis
+- Security Policies and Procedures
