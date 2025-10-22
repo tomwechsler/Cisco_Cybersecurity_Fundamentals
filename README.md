@@ -13,3 +13,18 @@ Understanding Cisco Cybersecurity Operations Fundamentals v1.2 (CBROPS 200-201) 
 - Host-Based Analysis
 - Network Intrusion Analysis
 - Security Policies and Procedures
+
+## Getting Started
+To get started, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/tomwechsler/Cisco_Cybersecurity_Fundamentals.git
+```
+
+Navigate to the repository directory:
+
+```bash
+cd Cisco_Cybersecurity_Fundamentals
+```
+
+Explore the folders and files to find study materials and resources.
