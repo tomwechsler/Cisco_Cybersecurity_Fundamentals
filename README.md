@@ -28,3 +28,9 @@ cd Cisco_Cybersecurity_Fundamentals
 ```
 
 Explore the folders and files to find study materials and resources.
+
+## Exam Preparation Tips
+- Review the official Cisco exam blueprint.
+- Practice with hands-on labs and simulations.
+- Join study groups or forums to discuss topics with peers.
+- Take practice exams to assess your knowledge.
