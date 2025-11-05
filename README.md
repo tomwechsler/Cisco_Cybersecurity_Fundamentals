@@ -34,3 +34,7 @@ Explore the folders and files to find study materials and resources.
 - Practice with hands-on labs and simulations.
 - Join study groups or forums to discuss topics with peers.
 - Take practice exams to assess your knowledge.
+
+## Measure Up practice exams
+
+For practice exams, visit [Measure Up](https://www.measureup.com). They provide a good simulation of the actual exam environment and question types.
