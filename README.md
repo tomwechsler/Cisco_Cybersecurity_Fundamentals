@@ -38,3 +38,6 @@ Explore the folders and files to find study materials and resources.
 ## Measure Up practice exams
 
 For practice exams, visit [Measure Up](https://www.measureup.com). They provide a good simulation of the actual exam environment and question types.
+
+## Contributing
+Contributions are welcome! If you have additional study materials, notes, or resources to share, feel free to open a pull request.
